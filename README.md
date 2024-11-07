@@ -15,6 +15,5 @@ This is repo that contains some notebooks related to ML methods and data analyti
 
 ##########################################################
 (3) Playing with Pandas to manipulate data, we would go nuts here and try everything. 
-
 tasks are mainly based on Leetcode Pandas tasks
 
